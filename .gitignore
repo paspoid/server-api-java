@@ -19,6 +19,8 @@ ENV/
 .idea/
 .vscode/
 .DS_Store
+local.properties
 
 # Environment variables & secrets
 .env
+
